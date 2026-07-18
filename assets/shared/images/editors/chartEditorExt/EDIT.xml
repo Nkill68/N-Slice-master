@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="EDIT.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Right0000" x="108" y="0" width="55" height="91" frameX="-47" frameY="-35" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="Right0001" x="163" y="0" width="52" height="93" frameX="-52" frameY="-32" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="Up0000" x="0" y="0" width="50" height="103" frameX="-53" frameY="-20" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="Up0001" x="215" y="0" width="46" height="93" frameX="-54" frameY="-29" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="Down0000" x="106" y="103" width="62" height="72" frameX="-43" frameY="-51" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="Down0001" x="52" y="103" width="54" height="84" frameX="-48" frameY="-41" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="Left0000" x="50" y="0" width="58" height="87" frameX="-68" frameY="-36" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="Left0001" x="215" y="93" width="46" height="82" frameX="-64" frameY="-40" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="Static0000" x="0" y="103" width="52" height="92" frameX="-52" frameY="-31" frameWidth="150" frameHeight="150"/>
+</TextureAtlas>
